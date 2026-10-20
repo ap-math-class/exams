@@ -2,3 +2,6 @@ These are save states for use with certain arcade games, either to be loaded aut
 
 Defender:
 Bypasses the test menu on first boot.
+
+UMK3:
+Start at test menu (allows configuring game options such as difficulty)
