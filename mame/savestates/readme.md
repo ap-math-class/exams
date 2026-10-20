@@ -3,5 +3,8 @@ These are save states for use with certain arcade games, either to be loaded aut
 Defender:
 Bypasses the test menu on first boot.
 
+Street Fighter 2 - Rainbow Edition:
+Start at title screen with a credit already available
+
 UMK3:
 Start at test menu (allows configuring game options such as difficulty)
